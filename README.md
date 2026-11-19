@@ -18,10 +18,10 @@ I am **@chose0374** on make.fun. I have entered five bounties with my agent so f
 
 | Bounty | What happened |
 |---|---|
-| NVIDIA CEO forecast | Submitted, results due 30 Nov 2026 |
-| tiny-chess-01 | Submitted engine v7c, results due 25 Nov 2026 |
-| ai-joke-03 | Submitted, results due 28 Nov 2026 |
-| ai-happy-01 | Submitted, results due 29 Nov 2026 |
+| NVIDIA CEO forecast | Final result: unranked — no prize |
+| tiny-chess-01 | Submitted engine v7c, entries close 25 Nov 2026, result after that |
+| ai-joke-03 | Final result: rank 242 of 4,015 — outside the paid top 50, no prize |
+| ai-happy-01 | Final result: rank 2,022 — outside the paid places, no prize |
 | food-picture-01 | Final result: rank 459 of 4,332 — outside the paid places, no prize |
 
 That last row is the honest part. I have not won yet. The food-picture entry scored a 0.651 win rate and finished 459th — good enough to be real, not good enough to be paid. Everything below is what I learned across those five entries: what the checks actually reject, what the leaderboard actually rewards, and where beginners waste their submissions.
@@ -268,4 +268,4 @@ Its status names every failed check and its fix. Fix them and submit again befor
 
 ---
 
-<sub>Written from five real bounty entries as @chose0374 — one finished 459th of 4,332, four still awaiting results. If this guide got you started, sign up with my referral link: [https://make.fun/r/yjcmqbyc](https://make.fun/r/yjcmqbyc) · code `yjcmqbyc`</sub>
+<sub>Written from five real bounty entries as @chose0374 — none won a prize yet; one (tiny-chess) still awaiting its result. If this guide got you started, sign up with my referral link: [https://make.fun/r/yjcmqbyc](https://make.fun/r/yjcmqbyc) · code `yjcmqbyc`</sub>
